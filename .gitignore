@@ -1,7 +1,8 @@
-veronacard_db/veronacard_db/veronacard.db
-VrCard/telegram_bot/token.txt
+
+telegram_bot/__pycache__
 token.txt
-veronacard_db
-VrCard/telegram_bot/__pycache__/
-VrCard/csv_data/
+telegram_bot/token.txt
+db/veronacard_db/veronacard.db
+db/veronacard_db.zip
+telegram_bot/veronacard.db
 veronacard.db
